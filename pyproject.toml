@@ -1,0 +1,22 @@
+[project]
+name = "learning-footstep-planner-cnn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "image>=1.5.33",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.3.5",
+    "numpy>=2.2.2",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.2.3",
+    "plotly>=6.0.0",
+    "plotly-express>=0.4.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "tensorboard-plugin-profile>=2.19.0",
+    "tensorflow>=2.14.0",
+    "tensorflow-addons>=0.23.0",
+    "tensorflow-datasets>=4.9.7",
+]
