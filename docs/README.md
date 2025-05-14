@@ -1,0 +1,1 @@
+## Project website for Learning-based Foot-Shape-Aware Foothold Selection for Quadrupedal Robots
